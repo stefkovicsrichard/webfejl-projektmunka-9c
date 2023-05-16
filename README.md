@@ -1,2 +1,2 @@
 # webfejl-projektmunka-9c
-bolondos projektmunka
+bolondos projektmunka :D

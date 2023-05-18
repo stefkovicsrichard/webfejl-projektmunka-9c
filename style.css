@@ -1,0 +1,7 @@
+div {
+    background-color: yellow;
+    border: 2px dashed black;
+    width: fit-content;
+    padding: 3px;
+    margin: auto;
+}

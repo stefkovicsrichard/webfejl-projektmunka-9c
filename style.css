@@ -1,7 +1,35 @@
-div {
-    background-color: yellow;
-    border: 2px dashed black;
-    width: fit-content;
-    padding: 3px;
+img {
+    width: 35%;
     margin: auto;
+    display: block;
+    color: rgb(199, 213, 224);
+    padding-top: 15px;
+}
+
+body {
+    background-color: rgb(42, 71, 94);
+}
+
+p {
+    font-size: x-large;
+    color: rgb(199, 213, 224);
+    margin: 25px;
+    text-align: justify;
+}
+
+.nav {
+    background-color: rgb(42, 71, 94);
+}
+
+.nav-link {
+    font-size: larger;
+    margin-top: 15px;
+    color: rgb(199, 213, 224)
+}
+.nav-link:hover {
+    color: rgb(102, 192, 244);
+}
+
+.active {
+    color: rgb(141, 151, 158);
 }

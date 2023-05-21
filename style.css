@@ -8,6 +8,8 @@ img {
 
 body {
     background-color: rgb(42, 71, 94);
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
 p {
@@ -38,3 +40,29 @@ p {
     background-color: rgb(42, 71, 94);
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
+#ctimgindex, #timgindex {
+    width: 99%;
+    border: 1px solid rgb(199, 213, 224);
+    padding-top: 0px;
+    margin: 0px 0px 0px 4px;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+figure {
+    text-align: center;
+}
+
+figure figcaption {
+    color: rgb(199, 213, 224);
+}

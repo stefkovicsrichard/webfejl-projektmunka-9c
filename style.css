@@ -49,6 +49,11 @@ body::-webkit-scrollbar {
     border: 1px solid rgb(199, 213, 224);
     padding-top: 0px;
     margin: 0px 0px 0px 4px;
+    transition: .5s;
+}
+
+#ctimgindex:hover, #timgindex:hover, .skinrarityexamples:hover {
+    filter: brightness(75%);
 }
 
 .float-right {
@@ -66,12 +71,14 @@ figure {
 figure figcaption {
     color: rgb(199, 213, 224);
 }
+
 h2 {
     color: white;
     margin: auto;
    text-align: center;
    padding-top: 40px;
 }
+
 #valvelogo {
     margin: 0px 0px 0px 8px;
     width: 20%;
@@ -85,12 +92,41 @@ li {
     margin: 5px;
 }
 
-h4 {
-    color:rgb(199, 213, 224);
-    padding-left: 10px;
-}
 #valvegames {
     width: 30%;    
     padding-left:30px;
     float: left;
+}
+
+.custom-link:link {
+    color: rgb(199, 213, 224);
+}
+
+.custom-link:visited {
+    color: rgb(141, 151, 158);
+}
+
+.custom-link:hover {
+    color: rgb(102, 192, 244);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(199, 213, 224);
+    margin: 25px;
+}
+
+.skinrarities {
+    display: inline;
+    margin-left: 25px;
+}
+
+td, tr, th {
+    color: rgb(199, 213, 224);
+}
+
+.skinrarityexamples {
+    padding: 0px;
+    margin: 0px auto;
+    width: 250px;
+    transition: .5s;
 }

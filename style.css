@@ -1,5 +1,5 @@
 img {
-    width: 35%;
+    width: 50%;
     margin: auto;
     display: block;
     color: rgb(199, 213, 224);
@@ -24,7 +24,7 @@ p {
 }
 
 .nav-link {
-    font-size: large;
+    font-size: larger;
     margin-top: 15px;
     color: rgb(199, 213, 224)
 }
@@ -139,3 +139,11 @@ td, tr, th {
    padding-left: 20px;
 }
 
+.skrr {
+    margin-right: 25px;
+}
+
+footer {
+    margin-bottom: 10px;
+    background-image: url(images/11578307_415111_c7d458a5d4624b801bbccd606cbb9f95_wm.jpg);
+}

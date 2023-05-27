@@ -81,7 +81,7 @@ h2 {
 
 #valvelogo {
     margin: 0px 0px 0px 8px;
-    width: 20%;
+    width: 40%;
     padding-right: 30px;
 }
 
@@ -126,7 +126,7 @@ td, tr, th {
 .skinrarityexamples {
     padding: 0px;
     margin: 0px auto;
-    width: 250px;
+    width: 250px;   
     transition: .5s;
 }
 #container {
@@ -135,8 +135,8 @@ td, tr, th {
 }
 
 #container p {
-   float: left;
-   padding-left: 20px;
+   float: right;
+   padding-right: 20px;
 }
 
 .skrr {
@@ -147,3 +147,6 @@ footer {
     margin-bottom: 10px;
     background-image: url(images/11578307_415111_c7d458a5d4624b801bbccd606cbb9f95_wm.jpg);
 }
+
+
+  

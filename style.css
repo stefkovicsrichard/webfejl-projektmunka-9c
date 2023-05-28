@@ -10,6 +10,7 @@ body {
     background-color: rgb(42, 71, 94);
     -ms-overflow-style: none;
     scrollbar-width: none;
+    overflow-x: hidden;
 }
 
 p {
@@ -170,6 +171,15 @@ footer {
     margin-bottom: 10px;
     background-image: url(images/11578307_415111_c7d458a5d4624b801bbccd606cbb9f95_wm.jpg);
 }
+.column {
+    float: left;
+    width: 30%;
+    padding: 5px;
+  }
+ul img {
+    width: 20%;
+    margin-left: 20px;
+} 
 
 
-  
+

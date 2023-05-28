@@ -115,8 +115,26 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .skinrarities {
-    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.container-types li {
+    list-style-type: disc;
     margin-left: 25px;
+}
+
+.container-types-intro {
+    line-height: 0;
+}
+
+.imgfloatfix {
+    display: inline;
+}
+
+.no-margin-h1 {
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 td, tr, th {
@@ -130,8 +148,13 @@ td, tr, th {
     transition: .5s;
 }
 #container {
-    align-items: left;
+    align-items: start;
     padding-left: 20px;
+}
+
+.skinraritiestable {
+    background-image: url(images/halo-steam-color.png);
+    background-size: 40%;
 }
 
 #container p {

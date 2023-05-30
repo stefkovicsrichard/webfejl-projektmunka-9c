@@ -88,15 +88,9 @@ h2 {
 
 li {
     color: rgb(199, 213, 224);
-    font-size: larger;
+    font-size: large;
     margin: 5px;
 }
-
-/* #valvegames {
-    width: 30%;    
-    padding-left:30px;
-    float: left;
-} */
 
 .custom-link:link {
     color: rgb(199, 213, 224);
@@ -158,19 +152,10 @@ td, tr, th {
     background-size: 40%;
 }
 
-#container p {
-   float: right;
-   padding-right: 20px;
-}
-
 .skrr {
     margin-right: 25px;
 }
 
-footer {
-    margin-bottom: 10px;
-    background-image: url(images/11578307_415111_c7d458a5d4624b801bbccd606cbb9f95_wm.jpg);
-}
 .column {
     float: left;
     width: 30%;

@@ -80,11 +80,6 @@ h2 {
    padding-top: 40px;
 }
 
-#valvelogo {
-    margin: 0px 0px 0px 8px;
-    width: 40%;
-    padding-right: 30px;
-}
 
 li {
     color: rgb(199, 213, 224);
@@ -166,5 +161,14 @@ ul img {
     margin-left: 20px;
 } 
 
+#valvelogo {
+    width: 30%;
+    padding-right: 40px;
+    display: block;
+    margin: auto;
+}
+#valvegames {
+    padding: 30px;
+}
 
 
